@@ -1,0 +1,26 @@
+= Spring Boot: 编写一个 Hello World 应用
+rain
+2019-01-15
+
+本文介绍如何使用 Spring Boot CLI 快速创建一个 Web 应用，使用 Scala 语言编写一个简单的 “Hello World”，使用 Gradle 构建并运行起来。
+
+== 介绍
+
+[%hardbreaks]
+内容简介： 一个简单的 Spring Boot Web 应用示例
+语言框架： Scala、Spring Boot、Spring MVC
+难度级别： L1
+阅读时间： 10 分钟
+
+== 工具准备
+
+* Java SDK : 8.0
+* Scala : 2.12.8
+* Spring Boot CLI : 2.1.2
+* Gradle : 4.10.2
+* IntelliJ IDEA : 2018.3.3
+* Curl / HTTPie
+
+== 教程
+
+网址： https://springdev.io/guides/spring/spring-boot-hello-world-scala/[spring-boot-hello-world-scala]
